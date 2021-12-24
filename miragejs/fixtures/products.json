@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Javascript coffee mug",
+    "image": "https://www.placecage.com/640/361",
+    "description": "We are nothing without coffee",
+    "price": 3.5
+  },
+  {
+    "id": "2",
+    "name": "Javascript t-shirt",
+    "image": "https://www.placecage.com/640/362",
+    "description": "We are proud of our skills",
+    "price": 13.5
+  },
+  {
+    "id": "3",
+    "name": "Javascript tissues",
+    "image": "https://www.placecage.com/640/363",
+    "description": "We sometimes wanna cry because of THIS",
+    "price": 3.5
+  }
+]

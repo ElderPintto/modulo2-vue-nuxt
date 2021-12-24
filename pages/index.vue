@@ -19,7 +19,7 @@
         />
       </div>
     </div>
-    <h3 v-else class="text-center text-2xl">{{ errorMessage }}</h3>
+    <h3 v-else class="text-center text-2xl mt-5">{{ errorMessage }}</h3>
   </main>
 </template>
 
